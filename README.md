@@ -12,7 +12,7 @@ pip install -r requiremets.txt
 
 ## Prediction Results
 <p align="center">
-  <img src="https://github.com/SahaAbhisek/Binary-Image-Classification-using-CNN/blob/main/images/results1.png" width="650" hight="650" title="Prediction Results">
+  <img src="https://github.com/SahaAbhisek/Binary-Image-Classification_using-InceptionV3/blob/main/images/results1.png" width="650" hight="650" title="Prediction Results">
 </p>
 
 We get more than 99% accuracy in predicting train and validation images.
